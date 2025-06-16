@@ -1,5 +1,5 @@
 // 1. Declare a variable age and show it in alert
-var age = 17;
+var age = 18;
 alert("I am " + age + " years old");
 
 // 2. Track number of visits (using localStorage to persist data)
